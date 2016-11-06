@@ -1,0 +1,5 @@
+/vendor/
+/docker/debian-jessie
+.DS_Store
+htaccess
+notas.md
